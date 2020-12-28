@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RomuloBraga92)](https://github.com/williamfonte27)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-braga/)](https://www.linkedin.com/in/sergiofonte/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulo.braga.92@gmail.com)](mailto:williamfonte27@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521983098125&text=Hi!)](https://api.whatsapp.com/send?phone=5521983098125&text=Hi!)
 
 
 ### Hey Guys! What's up? 🤙
